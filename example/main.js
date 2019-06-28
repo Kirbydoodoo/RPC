@@ -77,4 +77,4 @@ rpc.on('ready', () => {
   }, 15e3);
 });
 
-rpc.login({ clientId }).catch(console.error);
+rpc.login({ MzIzMzcwMTMwMjA3ODAxMzQ0.XRW2vw.QHf811CjkJXHUPMS4NcJBe00opg }).catch(console.error);
